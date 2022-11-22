@@ -1,5 +1,11 @@
+import ItemList from "./ItemList/ItemList";
+
 function App() {
-  return <div>{/* Complete the exercise here. */}</div>;
+  return (
+    <div>
+      <ItemList/>
+    </div>
+  );
 }
 
 export default App;
