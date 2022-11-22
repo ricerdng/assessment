@@ -1,0 +1,9 @@
+.itemList-filter {
+    color: white;
+    padding: 0 1rem;
+  }
+  
+  .itemList-filter label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
